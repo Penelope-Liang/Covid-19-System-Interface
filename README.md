@@ -4,5 +4,7 @@
 A fully functioning web-based interface for the covid vaccination database based on the SQL database.
 
 ## Technologies
-* php
+* PHP
 * SQL
+* HTML
+* CSS
